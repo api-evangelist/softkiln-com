@@ -1,4 +1,4 @@
-# softkiln-com
+# Softkiln
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,143 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-softkiln-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://softkiln.com/
+Softkiln provides an AI‑native hosting platform that lets you plan, build, iterate and run real products. It offers managed sign‑in, secure secrets, automated backups, monitoring and EU‑hosted infrastructure, all accessible via a simple MCP endpoint. Users can start for free without a credit card, and the service supports integration with major AI models like Claude, ChatGPT, and Cursor.
+
+**Areas:** AI · Hosting · Platform · MCP · EU
+
+## Softkiln on APIs.io
+
+Everything profiled for Softkiln is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/softkiln-com/](https://apis.io/providers/softkiln-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (31)
+
+- [Softkiln API](https://apis.io/apis/softkiln-com/softkiln-api/) — Softkiln provides an AI‑native hosting platform with managed sign‑in, secure secrets, backups, monitoring and EU‑hosted infrastructure.
+- [Softkiln Admin API](https://apis.io/apis/softkiln-com/softkiln-com-admin-api/) — The admin API from Softkiln — 1 operation(s) for admin.
+- [Softkiln Announcements API](https://apis.io/apis/softkiln-com/softkiln-com-announcements-api/) — The announcements API from Softkiln — 10 operation(s) for announcements.
+- [Softkiln App Manager API](https://apis.io/apis/softkiln-com/softkiln-com-app-manager-api-api/) — The App Manager API API from Softkiln — 1 operation(s) for app manager api.
+- [Softkiln Apps API](https://apis.io/apis/softkiln-com/softkiln-com-apps-api/) — The apps API from Softkiln — 18 operation(s) for apps.
+- [Softkiln Assistant API](https://apis.io/apis/softkiln-com/softkiln-com-assistant-api/) — The assistant API from Softkiln — 16 operation(s) for assistant.
+- [Softkiln Auth API](https://apis.io/apis/softkiln-com/softkiln-com-auth-api/) — The auth API from Softkiln — 2 operation(s) for auth.
+- [Softkiln Backup API](https://apis.io/apis/softkiln-com/softkiln-com-backup-api/) — The backup API from Softkiln — 3 operation(s) for backup.
+- [Softkiln Backups API](https://apis.io/apis/softkiln-com/softkiln-com-backups-api/) — The backups API from Softkiln — 8 operation(s) for backups.
+- [Softkiln Billing API](https://apis.io/apis/softkiln-com/softkiln-com-billing-api/) — The billing API from Softkiln — 25 operation(s) for billing.
+- [Softkiln Board API](https://apis.io/apis/softkiln-com/softkiln-com-board-api/) — The board API from Softkiln — 17 operation(s) for board.
+- [Softkiln Deploy API](https://apis.io/apis/softkiln-com/softkiln-com-deploy-api/) — The deploy API from Softkiln — 29 operation(s) for deploy.
+- [Softkiln Email Preferences API](https://apis.io/apis/softkiln-com/softkiln-com-email-preferences-api/) — The email-preferences API from Softkiln — 3 operation(s) for email-preferences.
+- [Softkiln Health API](https://apis.io/apis/softkiln-com/softkiln-com-health-api/) — The Health API from Softkiln — 1 operation(s) for health.
+- [Softkiln Initiatives API](https://apis.io/apis/softkiln-com/softkiln-com-initiatives-api/) — The initiatives API from Softkiln — 9 operation(s) for initiatives.
+- [Softkiln Internal API](https://apis.io/apis/softkiln-com/softkiln-com-internal-api/) — The internal API from Softkiln — 5 operation(s) for internal.
+- [Softkiln Legal API](https://apis.io/apis/softkiln-com/softkiln-com-legal-api/) — The legal API from Softkiln — 9 operation(s) for legal.
+- [Softkiln Orgs API](https://apis.io/apis/softkiln-com/softkiln-com-orgs-api/) — The orgs API from Softkiln — 11 operation(s) for orgs.
+- [Softkiln Privacy API](https://apis.io/apis/softkiln-com/softkiln-com-privacy-api/) — The privacy API from Softkiln — 1 operation(s) for privacy.
+- [Softkiln Railway Webhooks API](https://apis.io/apis/softkiln-com/softkiln-com-railway-webhooks-api/) — The railway-webhooks API from Softkiln — 1 operation(s) for railway-webhooks.
+- [Softkiln Roadmap API](https://apis.io/apis/softkiln-com/softkiln-com-roadmap-api/) — The roadmap API from Softkiln — 13 operation(s) for roadmap.
+- [Softkiln Settings API](https://apis.io/apis/softkiln-com/softkiln-com-settings-api/) — The settings API from Softkiln — 3 operation(s) for settings.
+- [Softkiln Snapshots API](https://apis.io/apis/softkiln-com/softkiln-com-snapshots-api/) — The snapshots API from Softkiln — 1 operation(s) for snapshots.
+- [Softkiln Status API](https://apis.io/apis/softkiln-com/softkiln-com-status-api/) — The status API from Softkiln — 2 operation(s) for status.
+- [Softkiln Status Banner API](https://apis.io/apis/softkiln-com/softkiln-com-status-banner-api/) — The status-banner API from Softkiln — 2 operation(s) for status-banner.
+- [Softkiln Stripe Webhooks API](https://apis.io/apis/softkiln-com/softkiln-com-stripe-webhooks-api/) — The stripe-webhooks API from Softkiln — 1 operation(s) for stripe-webhooks.
+- [Softkiln Tenant Users API](https://apis.io/apis/softkiln-com/softkiln-com-tenant-users-api/) — The tenant-users API from Softkiln — 3 operation(s) for tenant-users.
+- [Softkiln Terms API](https://apis.io/apis/softkiln-com/softkiln-com-terms-api/) — The terms API from Softkiln — 1 operation(s) for terms.
+- [Softkiln Uploads API](https://apis.io/apis/softkiln-com/softkiln-com-uploads-api/) — The uploads API from Softkiln — 3 operation(s) for uploads.
+- [Softkiln Users API](https://apis.io/apis/softkiln-com/softkiln-com-users-api/) — The users API from Softkiln — 4 operation(s) for users.
+- [Softkiln Workers API](https://apis.io/apis/softkiln-com/softkiln-com-workers-api/) — The workers API from Softkiln — 3 operation(s) for workers.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Softkiln Agentic Access](https://apis.io/agentic-access/softkiln-com/softkiln-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Softkiln Com Context](https://apis.io/jsonld/softkiln-com/softkiln-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Softkiln API Rules](https://apis.io/rules/softkiln-com/softkiln-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Softkiln Domain Security](https://apis.io/security/softkiln-com/softkiln-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Softkiln Plans Pricing](https://apis.io/plans/softkiln-com/softkiln-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://softkiln.com/)
+- [Pricing](https://softkiln.com/pricing)
+- [Terms of service](https://softkiln.com/terms)
+- [Privacy policy](https://softkiln.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 36.4** — thin · rubric 0.28.0 · scored 2026-11-25
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 44.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 48.5 |
+
+**Agent readiness 43.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/softkiln-com/](https://apis.io/providers/softkiln-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Softkiln: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/softkiln-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
